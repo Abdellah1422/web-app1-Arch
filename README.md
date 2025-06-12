@@ -1,7 +1,7 @@
 # web-app1-Arch
 # 3-Tier Web Application on AWS 
 
-## 🧩 Solution Overview
+## Solution Overview
 
 This project implements a scalable and resilient **3-tier web application architecture** on AWS . 
 It is designed for workloads that need separation of concerns (frontend, backend, database), scalability, high availability, and automated provisioning.
@@ -18,7 +18,7 @@ This solution automatically provisions networking, compute, storage, monitoring,
 
 This solution can serve as a production-ready base infrastructure for hosting any modern web application, such as an e-commerce platform, content management system (CMS), or microservice-based backend API.
 
-## 🖼 Architecture Diagram
+## Architecture Diagram
 
 The 3-Tier architecture consists of the following components:
 
@@ -60,7 +60,7 @@ Key Features:
 - Fast Global Content Delivery via CloudFront
 
 
-## 🧩 Component Breakdown
+## Component Breakdown
 
 ### VPC & Networking
 - Custom VPC with public and private subnets across 2 AZs
