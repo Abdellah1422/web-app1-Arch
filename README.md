@@ -1,10 +1,5 @@
 # web-app1-Arch
-# 3-Tier Web Application on AWS with Terraform
-
-> **Note:** This project uses Terraform to deploy a scalable and highly available 3-tier application architecture on AWS.  
->  
-
-
+# 3-Tier Web Application on AWS 
 
 ## 🧩 Solution Overview
 
